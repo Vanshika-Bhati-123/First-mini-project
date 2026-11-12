@@ -1,4 +1,4 @@
-# First-mini-project
+# Python Mini Projects
 Rock Paper Scissors Game 🎮
 
 This is my first Python project! It may be a small project, but it means a lot to me because it's my first step into the world of programming.
