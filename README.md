@@ -1,8 +1,20 @@
-# First Mini Project
-Rock Paper Scissors Game 🎮
+# Python Learning Journey 🐍
 
-This is my first Python project! It may be a small project, but it means a lot to me because it's my first step into the world of programming.
+Welcome to my Python learning repository!
 
-I built this game using Python to practice basic programming concepts and improve my problem-solving skills.
+I'm a beginner Python programmer, learning Python through hands-on practice and small projects.
 
-Every big journey starts with a small step, and this is mine! 🚀
+This repository contains my Python practice work and projects that I'm building as I gradually improve my programming skills.
+
+What You'll Find Here
+
+- Python basics and practice
+- Beginner-friendly projects
+- Concepts I've learned and implemented
+- My progress as I explore Python
+
+My Goal
+
+To improve my programming skills, build more interesting projects, and learn by doing.
+
+More projects and improvements will be added gradually! 🚀
